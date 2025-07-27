@@ -1,0 +1,3 @@
+venv/
+/Medical_Chatbot.egg-info/
+.env
